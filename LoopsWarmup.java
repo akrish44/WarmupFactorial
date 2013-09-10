@@ -1,8 +1,7 @@
 public class LoopsWarmup {
 
 	public static void main(String[] args) {
-		// int n = 5;
-		// int x = 1;
+		
 		// exponent(2,3);
 		// sum(5, 1);
 		factorial(1, 5);
@@ -26,6 +25,7 @@ public class LoopsWarmup {
 	// 	System.out.println(exponent);
 	// 	return exponent;
 	// }
+	
 	public static int factorial(int factorial, int n) {
 	
 		for(int i=1; i <=n; i++) {
